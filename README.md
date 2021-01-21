@@ -1,1 +1,1 @@
-simple form telpate for future refrence
+simple form template for future refrence
